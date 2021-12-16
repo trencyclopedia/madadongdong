@@ -3,13 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx_documentation's documentation!
+Welcome to madadongdong's documentation!
 ================================================
 
+.. _English-docs: 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :caption: Blogs
+	
+   EnglishBlogs
+   
 
+
+.. _Chinese-docs: 
+.. toctree::
+   :maxdepth: 4
+   :caption: 中文笔记
+   
+   中文笔记
+   
 
 
 Indices and tables
